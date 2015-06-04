@@ -1,4 +1,4 @@
-## What is PHP_Beautifier?
+#What is PHP_Beautifier? #
 
 PHP_Beautifier is a Open Source PHP aplication, distributed under the terms of PHP Licence 3.0. This program tries to reformat and beautify PHP 4 and PHP 5 code automatically.
 Who needs it?
@@ -7,7 +7,7 @@ Who needs it?
     * developers who can't read their own PHP code anymore
     * developers who want to share their PHP code
 
-# Little history background
+#Little history background #
 
 The first version of the program, PhpBeautify, was developed on Php 4 by Jens Bierkandt. In 2003 reached the 'stable' state and is the recomended version for the Php 4 users. This version works almost flawlessy, but was difficult to enhance, and have some problem with strange structures, like pascal-like control instructions and 'switch' structures
 
